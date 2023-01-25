@@ -1,4 +1,23 @@
-### #Soon
+## Hi There 👋
+I'm an architecture graduate who decided to turn explore software engineering at the end of 2022.
+
+## Currently ⏳
+Open to work in
+<br>
+▸ 🇫🇷
+<br>
+▸ 🇬🇧
+<br>
+▸ 🇸🇬 
+<br>
+▸ 🇭🇰
+
+
+## More On 🔎
+▸ Who &ensp; → &nbsp; [LinkedIn](https://www.linkedin.com/in/rei-dumand/)
+<br>
+▸ What &nbsp; → &nbsp; [whatisreidoing.today](https://whatisreidoing.today/)
+
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rei-dumand)](https://github.com/anuraghazra/github-readme-stats)
