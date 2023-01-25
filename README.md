@@ -1,6 +1,9 @@
 ## Hi There 👋
 I'm an architecture graduate who decided to turn explore software engineering at the end of 2022.
 
+## Interesting 💻
+▸ Teach Lead at [TokyoNoire](https://github.com/TokyoNoire)
+
 ## Currently ⏳
 Open to work in
 <br>
@@ -11,7 +14,6 @@ Open to work in
 ▸ 🇸🇬 
 <br>
 ▸ 🇭🇰
-
 
 ## More On 🔎
 ▸ Who &ensp; → &nbsp; [LinkedIn](https://www.linkedin.com/in/rei-dumand/)
