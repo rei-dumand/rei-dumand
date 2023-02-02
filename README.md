@@ -1,5 +1,5 @@
 ## Hi There 👋
-I'm an architecture graduate who decided to turn explore software engineering at the end of 2022.
+I'm an architecture graduate who decided to explore software engineering.
 
 ## Interesting 💻
 ▸ Teach Lead at [TokyoNoire](https://github.com/TokyoNoire)
