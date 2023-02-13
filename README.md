@@ -2,7 +2,7 @@
 I'm an architecture graduate who decided to explore software engineering.
 
 ## Interesting 💻
-▸ Teach Lead at [TokyoNoire](https://github.com/TokyoNoire)
+▸ Developer on [TokyoNoire](https://github.com/TokyoNoire)
 
 ## Currently ⏳
 Open to work in
