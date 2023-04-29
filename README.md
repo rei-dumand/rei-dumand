@@ -5,15 +5,7 @@ I'm an architecture graduate who decided to explore software engineering.
 ▸ Developer on [TokyoNoire](https://github.com/TokyoNoire)
 
 ## Currently ⏳
-Open to work in
-<br>
-▸ 🇫🇷
-<br>
-▸ 🇬🇧
-<br>
-▸ 🇸🇬 
-<br>
-▸ 🇭🇰
+▸ Frontend Engineer @ [Plural AI](https://plural.ai/)
 
 ## More On 🔎
 ▸ Who &ensp; → &nbsp; [LinkedIn](https://www.linkedin.com/in/rei-dumand/)
