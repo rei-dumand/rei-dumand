@@ -1,9 +1,6 @@
 ## Hi There 👋
 I'm an architecture graduate who decided to explore software engineering.
 
-## Interesting 💻
-▸ Developer on [TokyoNoire](https://github.com/TokyoNoire)
-
 ## Currently ⏳
 ▸ Frontend Engineer @ [Plural AI](https://plural.ai/)
 
